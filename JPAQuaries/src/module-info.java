@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kalpana
+ *
+ */
+module JPAQuaries {
+}
