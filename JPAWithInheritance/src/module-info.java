@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Tejeshewini
+ *
+ */
+module JPAWithInheritance {
+}
